@@ -1,0 +1,32 @@
+h1{
+    width: 100%; text-align: center; color: blue;
+}
+h2{
+    color: #014C3F;
+}
+h3 {
+    color: antiquewhite; font-style: italic;
+}
+header{
+    display: flex; max-width: 80%; margin: auto;
+    background-image: url(./images/avatar.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 40px 40px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid #cecece;
+    box-shadow: 1px 3px #383b3d;
+}
+span {
+    width: max-content; padding: 20px;
+}
+h2.name {
+    color: chocolate;
+}
+.container {
+  max-width: 80%; margin: auto;
+}
